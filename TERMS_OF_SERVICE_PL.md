@@ -1,381 +1,297 @@
-# Regulamin - MojeNawyki
+# Polityka Prywatności - MojeNawyki
 
-**Data ostatniej aktualizacji:** 7 października 2025
+**Data ostatniej aktualizacji:** 15 grudnia 2025
 
-## 1. Postanowienia Ogólne
+**Pełna wersja online:** https://github.com/Elenmith/MojeNawyki_read/blob/main/PRIVACY_POLICY_PL.md
 
-### 1.1. Definicje
+## 1. Wprowadzenie
 
-- **Aplikacja** - aplikacja mobilna i webowa MojeNawyki
-- **Usługodawca** - Visiblify, dostarczyciel aplikacji
-- **Użytkownik** - osoba korzystająca z aplikacji
-- **Usługi** - wszystkie funkcjonalności oferowane przez aplikację
-- **Konto** - indywidualne konto użytkownika w aplikacji
-- **Treść** - dane, informacje i materiały wprowadzane przez użytkownika
+Witamy w aplikacji **MojeNawyki**. Szanujemy Twoją prywatność i zobowiązujemy się do ochrony Twoich danych osobowych. Niniejsza Polityka Prywatności wyjaśnia, jakie dane zbieramy, jak je wykorzystujemy, przechowujemy i chronimy.
 
-### 1.2. Akceptacja Regulaminu
+Korzystając z aplikacji MojeNawyki, wyrażasz zgodę na praktyki opisane w niniejszej Polityce Prywatności.
 
-Korzystając z aplikacji MojeNawyki, akceptujesz niniejszy Regulamin oraz Politykę Prywatności. Jeśli nie zgadzasz się z tymi warunkami, nie korzystaj z aplikacji.
+## 2. Administrator Danych
 
-### 1.3. Zmiany Regulaminu
+**Administrator danych:** Visiblify  
+**Kontakt:** info@visiblify.com  
+**Aplikacja:** MojeNawyki
 
-Usługodawca zastrzega sobie prawo do zmiany niniejszego Regulaminu. O istotnych zmianach użytkownicy zostaną poinformowani:
+## 3. Jakie Dane Zbieramy
+
+### 3.1. Dane Konta Użytkownika
+
+Jeśli zdecydujesz się zalogować przez Google, zbieramy:
+
+- **Adres e-mail** - z Twojego konta Google, używany do identyfikacji
+- **Imię i nazwisko** - z Twojego profilu Google
+- **Zdjęcie profilowe** - z Twojego konta Google (opcjonalne)
+
+**Uwaga:** Nie przechowujemy haseł - logowanie odbywa się bezpiecznie przez Google OAuth 2.0.
+
+### 3.2. Dane o Nawykach
+
+Aplikacja przechowuje dane o Twoich nawykach:
+
+- Nazwy nawyków
+- Kategorie nawyków
+- Daty wykonania nawyków
+- Statystyki i postępy
+- Cele osobiste
+- Notatki i opisy
+
+### 3.3. Dane Techniczne i Analityczne
+
+Automatycznie zbieramy:
+
+- **Identyfikator urządzenia** - do zarządzania sesją
+- **Wersja aplikacji** - do zapewnienia kompatybilności
+- **System operacyjny** - iOS/Android/Web
+- **Dane o korzystaniu z aplikacji** - poprzez Firebase Analytics
+- **Raporty o awariach** - poprzez Firebase Crashlytics
+- **Token powiadomień push** - jeśli wyrazisz zgodę na powiadomienia
+
+### 3.4. Dane z Reklam
+
+Dla użytkowników niezalogowanych i użytkowników w wersji darmowej:
+
+- **Dane reklamowe Google AdMob** - w tym identyfikator reklamowy, interakcje z reklamami
+- Możesz zrezygnować z personalizowanych reklam w ustawieniach urządzenia
+
+## 4. Jak Wykorzystujemy Twoje Dane
+
+### 4.1. Świadczenie Usług
+
+- Umożliwienie rejestracji, logowania i korzystania z aplikacji
+- Synchronizacja danych między urządzeniami
+- Tworzenie kopii zapasowych danych
+- Wysyłanie powiadomień o nawykach (za Twoją zgodą)
+
+### 4.2. Ulepszanie Aplikacji
+
+- Analiza sposobu korzystania z aplikacji
+- Identyfikacja i naprawa błędów
+- Optymalizacja wydajności
+- Rozwój nowych funkcjonalności
+
+### 4.3. Komunikacja
+
+- Wysyłanie ważnych informacji o aplikacji
+- Odpowiadanie na Twoje zapytania
+- Powiadomienia o zmianach w usłudze
+
+### 4.4. Reklamy
+
+- Wyświetlanie reklam użytkownikom w wersji darmowej
+- Personalizacja reklam (jeśli wyrazisz zgodę)
+
+## 5. Podstawa Prawna Przetwarzania (RODO)
+
+Przetwarzamy Twoje dane na podstawie:
+
+- **Wykonanie umowy** (Art. 6(1)(b) RODO) - świadczenie usług aplikacji
+- **Zgoda** (Art. 6(1)(a) RODO) - powiadomienia push, analityka, personalizowane reklamy
+- **Prawnie uzasadniony interes** (Art. 6(1)(f) RODO) - bezpieczeństwo, zapobieganie nadużyciom, ulepszanie aplikacji
+
+## 6. Udostępnianie Danych
+
+### 6.1. Usługodawcy Zewnętrzni
+
+Korzystamy z następujących zaufanych usługodawców:
+
+**Firebase (Google Cloud Platform)**
+
+- Firebase Authentication - zarządzanie kontami
+- Cloud Firestore - przechowywanie danych
+- Firebase Storage - przechowywanie zdjęć
+- Firebase Analytics - analiza użytkowania
+- Firebase Crashlytics - raporty o awariach
+- Firebase Cloud Messaging - powiadomienia push
+
+**Google AdMob**
+
+- Wyświetlanie reklam w aplikacji
+- Zasady prywatności AdMob: https://support.google.com/admob/answer/6128543
+
+**Expo (React Native)**
+
+- Infrastruktura aplikacji mobilnej
+- Powiadomienia push (Expo Push Notifications)
+
+### 6.2. Wymogi Prawne
+
+Możemy ujawnić Twoje dane, jeśli jest to wymagane przez prawo lub w odpowiedzi na prawnie uzasadnione żądania organów publicznych.
+
+### 6.3. Przejęcie Firmy
+
+W przypadku fuzji, przejęcia lub sprzedaży aktywów, Twoje dane mogą zostać przekazane nowym właścicielom.
+
+## 7. Przechowywanie Danych
+
+### 7.1. Lokalizacja
+
+Twoje dane są przechowywane w:
+
+- **Chmurze Firebase** - serwery Google Cloud (Europa - eu-central)
+- **Lokalnie na Twoim urządzeniu** - dla trybu offline
+
+### 7.2. Okres Przechowywania
+
+- **Dane konta** - do czasu usunięcia konta
+- **Dane o nawykach** - do czasu usunięcia lub usunięcia konta
+- **Dane analityczne** - 14 miesięcy (zgodnie z polityką Firebase)
+- **Raporty o awariach** - 90 dni
+
+## 8. Bezpieczeństwo Danych
+
+Stosujemy odpowiednie środki bezpieczeństwa:
+
+- **Szyfrowanie** - dane w tranzycie (SSL/TLS) i w spoczynku
+- **Uwierzytelnianie Firebase** - bezpieczne zarządzanie hasłami
+- **Reguły bezpieczeństwa Firestore** - kontrola dostępu do danych
+- **Regularne aktualizacje** - łatki bezpieczeństwa
+- **Monitorowanie** - wykrywanie i reagowanie na zagrożenia
+
+## 9. Twoje Prawa (RODO)
+
+Masz prawo do:
+
+### 9.1. Prawo Dostępu
+
+Możesz zażądać kopii swoich danych osobowych.
+
+### 9.2. Prawo do Sprostowania
+
+Możesz poprosić o korektę nieprawidłowych danych.
+
+### 9.3. Prawo do Usunięcia ("Prawo do bycia zapomnianym")
+
+Możesz zażądać usunięcia swoich danych:
+
+- W aplikacji: Ustawienia → Usuwanie konta
+- Kontakt: info@visiblify.com
+
+### 9.4. Prawo do Ograniczenia Przetwarzania
+
+Możesz poprosić o ograniczenie przetwarzania Twoich danych.
+
+### 9.5. Prawo do Przenoszenia Danych
+
+Możesz eksportować swoje dane w formacie JSON lub Excel:
+
+- W aplikacji: Statystyki → Eksportuj dane
+
+### 9.6. Prawo do Sprzeciwu
+
+Możesz sprzeciwić się przetwarzaniu danych w celach marketingowych.
+
+### 9.7. Prawo do Cofnięcia Zgody
+
+Możesz w dowolnym momencie cofnąć zgodę na przetwarzanie danych.
+
+### 9.8. Prawo do Skargi
+
+Możesz złożyć skargę do organu nadzorczego:
+
+- **Urząd Ochrony Danych Osobowych (UODO)**
+- ul. Stawki 2, 00-193 Warszawa
+- https://uodo.gov.pl
+
+## 10. Tryb Gościa
+
+Jeśli korzystasz z aplikacji jako gość (bez rejestracji):
+
+- Twoje dane są przechowywane **tylko lokalnie** na Twoim urządzeniu
+- Nie są synchronizowane z naszymi serwerami
+- Nie zbieramy adresu e-mail ani innych danych osobowych
+- Usunięcie aplikacji spowoduje trwałe usunięcie danych
+- Nadal możesz widzieć reklamy (AdMob)
+
+## 11. Użytkownicy Premium
+
+Użytkownicy Premium nie widzą reklam i nie podlegają śledzeniu reklamowemu AdMob.
+
+## 12. Dzieci
+
+Nasza aplikacja **nie jest przeznaczona dla dzieci poniżej 13. roku życia**. Świadomie nie zbieramy danych osobowych od dzieci. Jeśli dowiesz się, że dziecko przekazało nam dane osobowe, skontaktuj się z nami: support@visiblify.com
+
+## 13. Uprawnienia Aplikacji
+
+Aplikacja może prosić o następujące uprawnienia:
+
+### 13.1. Powiadomienia (Opcjonalne)
+
+- **Cel:** Przypomnienia o nawykach
+- **Możesz odmówić:** Aplikacja będzie działać bez powiadomień
+
+### 13.2. Zdjęcia/Galeria (Opcjonalne)
+
+- **Cel:** Dodawanie zdjęcia profilowego
+- **Możesz odmówić:** Aplikacja będzie działać bez zdjęcia profilowego
+
+### 13.3. Połączenie Internetowe
+
+- **Cel:** Synchronizacja danych, reklamy
+- **Tryb offline:** Aplikacja działa offline dla gości
+
+## 14. Ciasteczka i Technologie Śledzące
+
+- **Web Storage** - przechowywanie danych lokalnie
+- **Firebase Analytics** - analiza użytkowania
+- **AdMob** - śledzenie reklamowe (można wyłączyć)
+
+Na platformie web możesz zarządzać ciasteczkami w ustawieniach przeglądarki.
+
+## 15. Przekazywanie Danych Międzynarodowe
+
+Twoje dane mogą być przetwarzane poza Europejskim Obszarem Gospodarczym (EOG):
+
+- **Google/Firebase** - stosuje standardowe klauzule umowne (SCC) zatwierdzone przez Komisję Europejską
+- Zapewniamy odpowiedni poziom ochrony zgodnie z RODO
+
+## 16. Zmiany w Polityce Prywatności
+
+Możemy okresowo aktualizować niniejszą Politykę Prywatności. O istotnych zmianach poinformujemy:
+
 - Powiadomieniem w aplikacji
-- E-mailem (dla zalogowanych użytkowników)
-- Aktualizacją daty "Ostatniej aktualizacji"
+- E-mailem (jeśli jesteś zalogowany)
+- Aktualizacją daty "Ostatniej aktualizacji" na górze dokumentu
 
-Kontynuowanie korzystania z aplikacji po wprowadzeniu zmian oznacza ich akceptację.
+Zalecamy regularne przeglądanie tej strony.
 
-## 2. Rodzaje Kont
+## 17. Kontakt
 
-### 2.1. Tryb Gościa
+Jeśli masz pytania dotyczące niniejszej Polityki Prywatności lub chcesz skorzystać ze swoich praw:
 
-**Bezpłatny, bez rejestracji**
-
-Funkcje:
-- ✅ Dodawanie do 3 nawyków
-- ✅ Śledzenie nawyków (lokalnie)
-- ✅ Podstawowe statystyki
-- ❌ Brak synchronizacji w chmurze
-- ❌ Brak kopii zapasowych
-- ⚠️ Wyświetlanie reklam
-
-### 2.2. Konto Bezpłatne (Free)
-
-**Wymagana rejestracja e-mail**
-
-Funkcje:
-- ✅ Nieograniczona liczba nawyków
-- ✅ Synchronizacja w chmurze
-- ✅ Kopia zapasowa danych
-- ✅ Statystyki i prognozy
-- ✅ System punktów i odznak
-- ❌ Brak edycji celów
-- ⚠️ Wyświetlanie reklam
-
-### 2.3. Konto Premium
-
-**Płatna subskrypcja**
-
-Funkcje:
-- ✅ Wszystkie funkcje Free
-- ✅ Edycja celów
-- ✅ Zaawansowane funkcje backup
-- ✅ Eksport danych (Excel)
-- ✅ Brak reklam
-- ✅ Priorytetowe wsparcie
-
-## 3. Rejestracja i Bezpieczeństwo Konta
-
-### 3.1. Wymagania Rejestracji
-
-- Ważny adres e-mail
-- Hasło (minimum 6 znaków)
-- Wiek: minimum 13 lat
-- Prawdziwe dane kontaktowe
-
-### 3.2. Odpowiedzialność Użytkownika
-
-Użytkownik jest odpowiedzialny za:
-- Zachowanie poufności hasła
-- Wszystkie działania na swoim koncie
-- Niezwłoczne powiadomienie o nieautoryzowanym dostępie
-- Aktualizację danych kontaktowych
-
-### 3.3. Zakaz Działań
-
-Zabronione jest:
-- Udostępnianie konta innym osobom
-- Tworzenie wielu kont w celu obejścia limitów
-- Wykorzystywanie konta do nielegalnych celów
-- Próby włamania lub naruszenia bezpieczeństwa
-- Automatyzacja (boty, skrypty) bez zgody
-- Reverse engineering aplikacji
-
-## 4. Korzystanie z Usług
-
-### 4.1. Licencja
-
-Usługodawca udziela użytkownikowi ograniczonej, niewyłącznej, nieprzekazywalnej licencji na korzystanie z aplikacji zgodnie z niniejszym Regulaminem.
-
-### 4.2. Ograniczenia Licencji
-
-Zabrania się:
-- Kopiowania, modyfikowania lub dystrybuowania aplikacji
-- Dekompilacji lub inżynierii wstecznej
-- Usuwania oznaczeń praw autorskich
-- Tworzenia dzieł pochodnych
-- Korzystania w celach komercyjnych bez zgody
-
-### 4.3. Dostępność Usług
-
-Usługodawca dąży do zapewnienia ciągłej dostępności usług, ale nie gwarantuje:
-- Nieprzerwania działania (może wystąpić konserwacja, aktualizacje)
-- Działania bez błędów
-- Dostępności w każdym kraju
-- Kompatybilności ze wszystkimi urządzeniami
-
-### 4.4. Tryb Offline
-
-Aplikacja oferuje funkcjonalność offline dla użytkowników-gości. Dane przechowywane są lokalnie i mogą zostać utracone przy usunięciu aplikacji.
-
-## 5. Treści Użytkownika
-
-### 5.1. Własność Treści
-
-Użytkownik zachowuje wszelkie prawa do treści, które wprowadza do aplikacji (nawyki, notatki, cele, zdjęcia profilowe).
-
-### 5.2. Licencja dla Usługodawcy
-
-Użytkownik udziela Usługodawcy licencji na:
-- Przechowywanie treści w chmurze
-- Wyświetlanie treści użytkownikowi
-- Tworzenie kopii zapasowych
-- Przetwarzanie dla świadczenia usług
-
-Ta licencja kończy się wraz z usunięciem treści lub konta.
-
-### 5.3. Odpowiedzialność za Treści
-
-Użytkownik oświadcza, że:
-- Posiada prawa do wprowadzanych treści
-- Treści nie naruszają praw osób trzecich
-- Treści nie są nielegalne ani obraźliwe
-
-### 5.4. Moderacja Treści
-
-Usługodawca zastrzega sobie prawo do:
-- Usunięcia treści naruszających Regulamin
-- Zawieszenia lub usunięcia konta naruszającego Regulamin
-- Zgłoszenia nielegalnych treści odpowiednim organom
-
-## 6. Płatności i Subskrypcje (Premium)
-
-### 6.1. Ceny i Płatności
-
-- Ceny są określone w aplikacji i mogą się zmieniać
-- Płatności są przetwarzane przez App Store (iOS) lub Google Play (Android)
-- Wszystkie ceny zawierają obowiązujące podatki
-
-### 6.2. Subskrypcja
-
-- Subskrypcja Premium jest odnawiana automatycznie
-- Możesz anulować subskrypcję w dowolnym momencie
-- Anulacja działa od następnego okresu rozliczeniowego
-- Brak zwrotów za niewykorzystany czas
-
-### 6.3. Okres Próbny (jeśli dostępny)
-
-- Może być oferowany bezpłatny okres próbny
-- Po zakończeniu okresu próbnego automatycznie rozpoczyna się płatna subskrypcja
-- Możesz anulować przed końcem okresu próbnego, aby uniknąć opłat
-
-### 6.4. Anulacja Subskrypcji
-
-**iOS:**
-- Ustawienia → Apple ID → Subskrypcje → MojeNawyki → Anuluj
-
-**Android:**
-- Google Play Store → Menu → Subskrypcje → MojeNawyki → Anuluj
-
-### 6.5. Zwroty
-
-- Zwroty są przetwarzane zgodnie z polityką App Store/Google Play
-- Kontakt: support@visiblify.com
-- Decyzja o zwrocie należy do Usługodawcy
-
-## 7. Reklamy
-
-### 7.1. Wyświetlanie Reklam
-
-Użytkownicy w trybie gościa i użytkownicy Free będą widzieć reklamy dostarczane przez Google AdMob.
-
-### 7.2. Rezygnacja z Reklam
-
-Aby usunąć reklamy, przejdź na konto Premium.
-
-### 7.3. Personalizowane Reklamy
-
-Możesz zrezygnować z personalizowanych reklam w ustawieniach urządzenia:
-- **iOS:** Ustawienia → Prywatność → Reklamy
-- **Android:** Ustawienia → Google → Reklamy
-
-## 8. Własność Intelektualna
-
-### 8.1. Prawa Autorskie
-
-Wszystkie elementy aplikacji (kod, design, grafiki, logo, teksty) są własnością Usługodawcy i chronione prawem autorskim.
-
-### 8.2. Znaki Towarowe
-
-"MojeNawyki", logo i inne znaki są znakami towarowymi Usługodawcy.
-
-### 8.3. Oprogramowanie Zewnętrzne
-
-Aplikacja korzysta z bibliotek i usług zewnętrznych (React Native, Firebase, Expo), które podlegają własnym licencjom.
-
-## 9. Ochrona Danych Osobowych
-
-Zbieranie i przetwarzanie danych osobowych jest opisane w **Polityce Prywatności**, która stanowi integralną część niniejszego Regulaminu.
-
-## 10. Wypowiedzenie i Usunięcie Konta
-
-### 10.1. Wypowiedzenie przez Użytkownika
-
-Możesz w dowolnym momencie:
-- Przestać korzystać z aplikacji
-- Usunąć konto: Ustawienia → Usuwanie konta
-
-### 10.2. Wypowiedzenie przez Usługodawcę
-
-Usługodawca może zawiesić lub usunąć konto w przypadku:
-- Naruszenia Regulaminu
-- Nielegalnego użycia aplikacji
-- Nieaktywności przez okres dłuższy niż 24 miesiące
-- Zakończenia działalności aplikacji
-
-### 10.3. Skutki Usunięcia Konta
-
-Po usunięciu konta:
-- Wszystkie dane zostaną trwale usunięte w ciągu 30 dni
-- Utracisz dostęp do treści i statystyk
-- Anulowane zostaną aktywne subskrypcje
-- Nie możesz odzyskać usuniętych danych
-
-## 11. Wyłączenie Odpowiedzialności
-
-### 11.1. Aplikacja "TAK JAK JEST"
-
-Aplikacja jest dostarczana "tak jak jest" bez jakichkolwiek gwarancji, wyraźnych lub domniemanych.
-
-### 11.2. Brak Gwarancji
-
-Usługodawca nie gwarantuje:
-- Osiągnięcia konkretnych rezultatów
-- Nieprzerwanego działania
-- Wolności od błędów
-- Bezpieczeństwa przed wirusami
-
-### 11.3. Ograniczenie Odpowiedzialności
-
-Usługodawca nie ponosi odpowiedzialności za:
-- Utratę danych z przyczyn technicznych
-- Szkody pośrednie lub przypadkowe
-- Utracone zyski
-- Decyzje podjęte na podstawie danych z aplikacji
-
-### 11.4. Maksymalna Odpowiedzialność
-
-Maksymalna odpowiedzialność Usługodawcy ogranicza się do kwoty zapłaconej przez użytkownika w ciągu ostatnich 12 miesięcy.
-
-## 12. Zwolnienie z Odpowiedzialności
-
-Użytkownik zobowiązuje się zabezpieczyć i zwolnić Usługodawcę z wszelkich roszczeń, strat, szkód wynikających z:
-- Naruszenia Regulaminu przez użytkownika
-- Naruszenia praw osób trzecich
-- Nielegalnego użycia aplikacji
-
-## 13. Rozstrzyganie Sporów
-
-### 13.1. Prawo Właściwe
-
-Niniejszy Regulamin podlega prawu polskiemu.
-
-### 13.2. Sąd Właściwy
-
-W przypadku sporów właściwy jest sąd siedziby Usługodawcy, z zastrzeżeniem przepisów o właściwości bezwzględnej.
-
-### 13.3. Polubowne Rozwiązanie
-
-Przed wystąpieniem na drogę sądową, strony zobowiązują się do próby polubownego rozwiązania sporu.
-
-### 13.4. Prawa Konsumenta
-
-Konsument ma prawo do skorzystania z pozasądowych sposobów rozpatrywania reklamacji i dochodzenia roszczeń.
-
-## 14. Postanowienia Końcowe
-
-### 14.1. Niepodzielność Postanowień
-
-Jeśli jakiekolwiek postanowienie Regulaminu okaże się nieważne, pozostałe postanowienia pozostają w mocy.
-
-### 14.2. Brak Zrzeczenia się Praw
-
-Nieskorzystanie przez Usługodawcę z przysługujących mu praw nie oznacza zrzeczenia się tych praw.
-
-### 14.3. Całość Umowy
-
-Niniejszy Regulamin wraz z Polityką Prywatności stanowią całość umowy między użytkownikiem a Usługodawcą.
-
-### 14.4. Przeniesienie Praw
-
-Użytkownik nie może przenieść swoich praw i obowiązków wynikających z Regulaminu bez zgody Usługodawcy.
-
-## 15. Kontakt
-
-W sprawach związanych z Regulaminem:
-
-**E-mail:** support@visiblify.com  
+**E-mail:** info@visiblify.com  
 **Aplikacja:** MojeNawyki  
-**Usługodawca:** Visiblify  
+**Administrator:** Visiblify
 
-**Czas odpowiedzi:** Do 14 dni roboczych
+**Czas odpowiedzi:** Do 30 dni od otrzymania zapytania
 
-## 16. Reklamacje
+## 18. Dodatkowe Informacje
 
-### 16.1. Złożenie Reklamacji
+### 18.1. Do Not Track (DNT)
 
-Reklamacje można składać:
-- E-mail: support@visiblify.com
-- Formularz w aplikacji
+Obecnie nie reagujemy na sygnały DNT przeglądarek.
 
-### 16.2. Treść Reklamacji
+### 18.2. Personalizowane Reklamy
 
-Reklamacja powinna zawierać:
-- Dane kontaktowe
-- Opis problemu
-- Data wystąpienia problemu
-- Oczekiwany sposób rozpatrzenia
+Aby zrezygnować z personalizowanych reklam:
 
-### 16.3. Rozpatrzenie Reklamacji
+- **iOS:** Ustawienia → Prywatność → Reklamy → Ogranicz śledzenie reklam
+- **Android:** Ustawienia → Google → Reklamy → Zrezygnuj z personalizacji reklam
 
-Reklamacje są rozpatrywane w terminie do 30 dni od daty otrzymania.
+### 18.3. Linki Zewnętrzne
 
-## 17. Szczególne Postanowienia dla Różnych Platform
-
-### 17.1. iOS (Apple)
-
-- Subskrypcje zarządzane przez Apple App Store
-- Zwroty zgodnie z polityką Apple
-- Apple nie jest stroną niniejszego Regulaminu
-
-### 17.2. Android (Google Play)
-
-- Subskrypcje zarządzane przez Google Play
-- Zwroty zgodnie z polityką Google
-- Google nie jest stroną niniejszego Regulaminu
-
-### 17.3. Web
-
-- Płatności mogą być przetwarzane przez innych dostawców
-- Dodatkowe warunki mogą obowiązywać
-
-## 18. Informacje Dodatkowe
-
-### 18.1. Język Regulaminu
-
-Regulamin jest dostępny w języku polskim i angielskim. W przypadku rozbieżności, wersja polska jest wiążąca.
-
-### 18.2. Kontakt w Języku Polskim
-
-Użytkownik może kontaktować się z Usługodawcą w języku polskim.
+Aplikacja może zawierać linki do stron trzecich. Nie ponosimy odpowiedzialności za ich politykę prywatności.
 
 ---
 
-**Korzystając z aplikacji MojeNawyki, potwierdzasz, że przeczytałeś/aś, zrozumiałeś/aś i akceptujesz niniejszy Regulamin oraz Politykę Prywatności.**
+**Akceptując niniejszą Politykę Prywatności, wyrażasz zgodę na zbieranie i wykorzystywanie informacji zgodnie z powyższymi zasadami.**
 
 ---
 
-*Ostatnia aktualizacja: 7 października 2025*  
-*Wersja: 1.0.0*
+_Ostatnia aktualizacja: 15 grudnia 2025_  
+_Wersja: 1.1.0_
 
+**Pełna wersja online:** https://github.com/Elenmith/MojeNawyki_read/blob/main/PRIVACY_POLICY_PL.md
