@@ -11,7 +11,7 @@ Korzystając z aplikacji MojeNawyki, wyrażasz zgodę na praktyki opisane w nini
 ## 2. Administrator Danych
 
 **Administrator danych:** Visiblify  
-**Kontakt:** support@visiblify.com  
+**Kontakt:** info@visiblify.com  
 **Aplikacja:** MojeNawyki
 
 ## 3. Jakie Dane Zbieramy
@@ -230,7 +230,7 @@ Zalecamy regularne przeglądanie tej strony.
 
 Jeśli masz pytania dotyczące niniejszej Polityki Prywatności lub chcesz skorzystać ze swoich praw:
 
-**E-mail:** support@visiblify.com  
+**E-mail:** info@visiblify.com  
 **Aplikacja:** MojeNawyki  
 **Administrator:** Visiblify  
 
@@ -257,4 +257,5 @@ Aplikacja może zawierać linki do stron trzecich. Nie ponosimy odpowiedzialnoś
 
 *Ostatnia aktualizacja: 15 grudnia 2025*  
 *Wersja: 1.1.0*
+
 
